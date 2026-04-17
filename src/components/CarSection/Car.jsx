@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../Header/Navbar";
 import Slider from "../Header/Slider";
-import bgImage from "../../assets/car-bg.png";
+import bgImage from "../../assets/Car-bg.png";
 import {
   carBrands,
   carBrandModels,
